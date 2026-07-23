@@ -1,7 +1,7 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: AIzaSyBNsOeKmGdJ0_mp2eJImY-ijkVLQsPDjHk",
   authDomain: "blessed-divine-prasadam-d6699.firebaseapp.com",
   projectId: "blessed-divine-prasadam-d6699",
   storageBucket: "blessed-divine-prasadam-d6699.firebasestorage.app",
